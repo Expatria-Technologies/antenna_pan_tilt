@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Step files modified from https://github.com/isaac879/Pan-Tilt-Mount under MIT license.
 
 ### What is this repository for? ###
 
