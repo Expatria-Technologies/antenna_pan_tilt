@@ -1,6 +1,6 @@
 # README #
 
-Step files modified from https://github.com/isaac879/Pan-Tilt-Mount under MIT license.
+Small-scale system step files modified from https://github.com/isaac879/Pan-Tilt-Mount under MIT license.
 
 ### What is this repository for? ###
 
