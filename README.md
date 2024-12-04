@@ -2,28 +2,7 @@
 
 Small-scale system step files modified from https://github.com/isaac879/Pan-Tilt-Mount under MIT license.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+https://github.com/user-attachments/assets/ca83a86e-b54b-4ed5-9070-b3fb25dd66ff
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
